@@ -8,4 +8,4 @@ lang: en
 ref: magic-post
 ---
 
-The greatest post ever! A.K.A My crash dummie post.
+A new page has been born ! 

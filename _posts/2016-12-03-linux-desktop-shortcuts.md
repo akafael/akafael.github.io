@@ -8,7 +8,7 @@ lang: en
 ref: linux-desktop-shortcut
 ---
 
-Sometimes is just annoying to open terminal each time you need to run some program installed. This is a basic tutorial to generate a link file using the [Desktop Entry Especification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#introduction) format. It works for KDE, GNOME or Unity desktop enviromments.
+Sometimes is just annoying to open terminal each time you need some program running. This is a basic tutorial to generate a link file using the [Desktop Entry Especification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#introduction) format. It works for KDE, GNOME or Unity desktop enviromments.
 
 ## 1. Create a file with extention _.desktop_ whith the following content
 
@@ -17,20 +17,9 @@ $ gedit myProgram.desktop
 ```
 
 Content:
-```
-[Desktop Entry]
-Encoding=UTF-8
-Version=1.0
-Name=MyProgramName
-GenericName= My Complete Program Name
-Exec= /path/to/my/program.sh
-Icon=/path/to/my/program/icon.png
-Terminal=true
-StartupWMClass=MyProgramGroupClass
-Type=Application
-Categories=Application;
-Comment= This is the best program comment ever.
-```
+
+<script src="https://gist.github.com/akafael/f7583856ba1e200264cbf3de5a42e9b2.js"></script>
+
 For more details about the format check this [specifications](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#basic-format).
 
 ## 2. Copy your for the default Applications Link folder
