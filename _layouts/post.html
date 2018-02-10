@@ -2,6 +2,10 @@
 layout: page
 ---
 
+  <div id="post-header">
+      {% include reading-time.html %}
+  </div>
+
   <div id="post-content">
     {{ content }}
   </div>
@@ -10,7 +14,7 @@ layout: page
   Tags:
   {% for tag in page.tags %}
     {% assign t = tag | slugify %}
-    <a href="{{ site.jekyll-archives.permalinks.tag | prepend: site.baseurl | replace: ':name', t | replace: '//', '/' }}">{{ tag | capitalize }}</a>
+    <a href="{{ site.jekyll-archives.permalinks.tag | prepend: site.baseurl | replace: ':name', t | replace: '//', '/' }}">#{{ tag | capitalize }}</a>
   {% endfor %}
   </div>
 
