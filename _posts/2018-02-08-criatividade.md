@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Criatividade"
+title:  "Alimentando a criatividade"
 date:   2018-02-08 18:00:00
 categories: journal
 tags: [blog,design]

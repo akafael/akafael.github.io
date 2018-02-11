@@ -23,16 +23,21 @@ layout: page
   <hr/>
 
   <div class="post-share-links">
+    {% if page.lang=="pt"%}
+    Compartilhe:
+    {% else %}
+    Share this:
+    {% endif %}
     <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}"
        rel="nofollow" target="_blank" title="Share on Facebook">facebook</a>
     <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
        rel="nofollow" target="_blank" title="Share on Google+">google-plus</a>
     <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ excerpt }}&source={{ site.url }}"
        rel="nofollow" target="_blank" title="Share on LinkedIn">linkedin</a>
-    <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}"
-       rel="nofollow" target="_blank" title="Share on Reddit">reddit</a>
     <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={[ page.title }}&description={{ excerpt }}"
        rel="nofollow" target="_blank" title="Share on Tumblr">tumblr</a>
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}"
        rel="nofollow" target="_blank" title="Share on Twitter">twitter</a>
+    <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}"
+       rel="nofollow" target="_blank" title="Share on Reddit">reddit</a>
   </div>
