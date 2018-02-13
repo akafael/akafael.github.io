@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tirando as Idéias do Papel"
-date:   2018-01-04 18:00:00
+date:   2018-01-11 18:00:00
 categories: journal
 tags: [produtividade]
 lang: pt
