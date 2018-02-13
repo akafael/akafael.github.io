@@ -39,5 +39,13 @@
   p{
     margin-top: 20px;
     margin-bottom: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  img{
+      max-width: 80%;
+      display: block;
+      margin: 0 auto;
   }
 }

@@ -1,9 +1,9 @@
 <span class="reading-time" title="Estimated reading time">
   <i class="material-icons">schedule</i>
   {% assign words = content | number_of_words %}
-  {% if words < 150 %}
-    1 min
+  {% if words < 260 %}
+    2 mins
   {% else %}
-    {{ words | divided_by:150 }} mins
+    {{ words | divided_by:130 }} mins
   {% endif %}
 </span>
