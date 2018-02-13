@@ -8,7 +8,7 @@ lang: pt
 ref: lowest-hanging-fruit
 ---
 
-![grapes](samuel-zeller-grapes.jpg)
+![Uvas](https://images.unsplash.com/photo-1502624753130-3bfbdf71c320?ixlib=rb-0.3.5&s=3a93a8b9574451e8c7c1354a1e74b84d&auto=format&fit=crop&w=1051&q=80)
 
 Foto de [Samuel Zeller](https://unsplash.com/photos/piR6qwg11Fo) on [https://unsplash.com](Unsplash)
 
