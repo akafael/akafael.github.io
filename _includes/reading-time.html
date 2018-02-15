@@ -1,4 +1,5 @@
-<span class="reading-time" title="Estimated reading time">
+<span class="reading-time"
+      title={% if page.lang=="pt"%}"Tempo estimado de leitura"{%else%}"Estimated reading time"{%endif%}>
   <i class="material-icons">schedule</i>
   {% assign words = content | number_of_words %}
   {% if words < 260 %}
