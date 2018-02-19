@@ -22,7 +22,7 @@ Content:
 
 For more details about the format check this [specifications](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html#basic-format).
 
-## 2. Copy your for the default Applications Link folder
+## 2. Copy your file for the default Applications Link folder
 
 Command for user only access
 
@@ -44,4 +44,4 @@ sudo cp myProgram.desktop /usr/share/applications/myProgram.desktop
 
 ### UnityLaunchers
 
-UnityLauchers are also _.desktop_ files and allow to create right-click menus for each application. You may check the details [here](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles) at Ubuntu Documentation.
+UnityLauchers are also _.desktop_ files and allow to create right-click menus for each application. You can check the details [here](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles) at Ubuntu Documentation.
