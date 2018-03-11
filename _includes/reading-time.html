@@ -2,9 +2,9 @@
       title={% if page.lang=="pt"%}"Tempo estimado de leitura"{%else%}"Estimated reading time"{%endif%}>
   <i class="material-icons">schedule</i>
   {% assign words = content | number_of_words %}
-  {% if words < 260 %}
+  {% if words < 200%}
     2 mins
   {% else %}
-    {{ words | divided_by:130 }} mins
+    {{ words | divided_by:100 }} mins
   {% endif %}
 </span>
