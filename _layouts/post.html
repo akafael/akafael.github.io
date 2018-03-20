@@ -1,45 +1,33 @@
 ---
-layout: page
+layout: main
 ---
-
-  <div id="post-header" style="color: gray;">
-      <i class="material-icons">today</i>
-      {{page.date | date: "%b %-d, %Y" }}
-      {% include reading-time.html %}
-  </div>
-
-  <hr/>
-
-  <div id="post-content">
-    {{ content }}
-  </div>
-
-  <div id="post-tags">
-  Tags:
-  {% for tag in page.tags %}
-    {% assign t = tag | slugify %}
-    <a href="{{ site.jekyll-archives.permalinks.tag | prepend: site.baseurl | replace: ':name', t | replace: '//', '/' }}">#{{ tag | capitalize }}</a>
-  {% endfor %}
-  </div>
-
-  <hr/>
-
-  <div class="post-share-links">
-    {% if page.lang=="pt"%}
-    Compartilhe:
+<article class="article-page">
+  <div class="page-content">
+    {% if page.img %}
+    <div class="page-cover-image">
+      <img class="page-image" src="{{page.img}}" alt="{{page.title}}">
+    </div> <!-- End Page Cover Image -->
     {% else %}
-    Share this:
     {% endif %}
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}"
-       rel="nofollow" target="_blank" title="Share on Facebook">facebook</a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
-       rel="nofollow" target="_blank" title="Share on Google+">google-plus</a>
-    <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ excerpt }}&source={{ site.url }}"
-       rel="nofollow" target="_blank" title="Share on LinkedIn">linkedin</a>
-    <a href="http://www.tumblr.com/share/link?url={{ site.url }}{{ page.url }}&name={[ page.title }}&description={{ excerpt }}"
-       rel="nofollow" target="_blank" title="Share on Tumblr">tumblr</a>
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}"
-       rel="nofollow" target="_blank" title="Share on Twitter">twitter</a>
-    <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}"
-       rel="nofollow" target="_blank" title="Share on Reddit">reddit</a>
-  </div>
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">{{page.title}}</h1>
+        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+      </header>
+      {{page.content | markdownify}}
+      <div class="page-footer">
+        <div class="page-share">
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
+        </div>
+        <div class="page-tag">
+          {% for tag in page.tags %}
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+          {% endfor %}
+        </div>
+      </div>
+      {% include disqus.html %}
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->

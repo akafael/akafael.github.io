@@ -1,43 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Akanotes
-email: raffaellimma@gmail.com
+title: Akafael
 description: > # this means to ignore newlines until "baseurl:"
-  This is collection of bit from myself made with love and code
-  using Jekyll and hosted on Github. It compress all sort of things
-  from programming snippets to produtivity tips. My journal it is!
-  Feel free to dig it for anything useful for you.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://akafael.github.io" # the base hostname & protocol for your site
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-# Social
-githubUsername: 'akafael'
-twitterUsername: 'akafael'
-dribbbleUsername:
-codepenUsername:
+# Author Settings
+author: Rafael Lima # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: I am a mechatronics engineering student. Always hungry to keep learning. # add description
+social-twitter: akafael # add your Twitter handle
+social-facebook: akafael  # add your Facebook handle
+social-github: akafael # add your Github handle
+social-linkedin: akafael # add your Linkedin handle
+social-email:  # add your Email address
 
-# Build settings
+# Disqus
+discus-identifier: akafael # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-themeColor: blue # purple, green, blue, orange, purple, grey
-fixedNav: 'true' # true or false
+paginate: 8
+paginate_path: "/page/:num"
 
-permalink: /:categories/:year/:month/:title
-markdown: kramdown
-include: [_pages]
-exclude: [_site, CHANGELOG.md, LICENSE, README.md]
-sass:
-  style: compressed
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

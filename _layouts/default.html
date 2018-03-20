@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html class="t-{{ site.themeColor }}">
-  {% include head.html %}
-  <body>
-    {% include navigation.html %}
+<html lang="en">
+{% include head.html %}
+<body>
 
+  <div class="wrapper">
     {{ content }}
-
-    {% include footer.html %}
-  </body>
+  </div>
+  
+  {% include analytics.html %}
+</body>
 </html>

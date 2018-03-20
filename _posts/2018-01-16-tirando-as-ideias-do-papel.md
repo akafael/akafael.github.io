@@ -6,10 +6,8 @@ categories: journal
 tags: [produtividade]
 lang: pt
 ref: making-ideas-happen
+img: https://images.unsplash.com/photo-1506680441981-4a499f09babe?auto=format&fit=crop&w=1021&q=80
 ---
-
-![making-ideas-happen](https://images.unsplash.com/photo-1506680441981-4a499f09babe?auto=format&fit=crop&w=1021&q=80)
-_Imagem de rawpixel.com publicada no Unsplash_
 
 **Não deixe suas idéias ficarem apenas ficarem apenas na imaginação.** Muitos são os que pensam novas possibilidades mas poucos são os que realmente procuram executar. Em nossa mente tudo é possível pois custa muito pouco imaginar mas na hora de executar tudo muda, detalhes que nem sequer pensamos existir surgem e aquilo que antes era tão simples pode parecer impossível ou mesmo impraticável.
 

@@ -6,9 +6,8 @@ categories: journal
 tags: [blog,design]
 lang: pt
 ref: criativity
+img: https://images.unsplash.com/photo-1420802532821-8a885e88e95c?ixlib=rb-0.3.5&s=e484126bfe5468bcea7943fe70c11812&auto=format&fit=crop&w=967&q=80
 ---
-
-![Parede Cheia de Quadros e artista desenhando](https://images.unsplash.com/photo-1420802532821-8a885e88e95c?ixlib=rb-0.3.5&s=e484126bfe5468bcea7943fe70c11812&auto=format&fit=crop&w=967&q=80)
 
 O processo criativo é algo curioso exige exigem sempre um pouco de bagunça e caos mas sem bons insumos nada acontece. É tal labareda desconstruindo a matéria e a transformando em pura energia. Precisa de boa lenha para fluir. Assim para produzir qualquer coisa é preciso sempre consumir bastante para que, juntando os pedaços daqui e dali, possa surgir algo completamente novo. Assim um bom artista deve estar sempre em contato com arte e um bom desenvolvidor de jogos deve sempre buscar jogos novos.
 

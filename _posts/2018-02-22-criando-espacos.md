@@ -6,9 +6,8 @@ categories: journal
 tags: [produtividade]
 lang: pt
 ref: making-room
+img: https://2.bp.blogspot.com/-OLDO-1muTzQ/ULan1EBV0_I/AAAAAAAAXtY/RKPgVskSYEQ/s1600/lei+de+newtonblog.jpg
 ---
-
-![\(Foto: Vitor Cervi / O Jornalzão\)](https://2.bp.blogspot.com/-OLDO-1muTzQ/ULan1EBV0_I/AAAAAAAAXtY/RKPgVskSYEQ/s1600/lei+de+newtonblog.jpg)
 
 Já dizia o principio da impenetrabilidade: _"Dois corpos não podem ocupar o mesmo espaço ao mesmo tempo"_. Da mesma forma na nossa vida para que novas coisas tenha espaço é preciso abrir espaço. Do contrário aquele espaço ocupado impedirá que a mudança ocorra.
 

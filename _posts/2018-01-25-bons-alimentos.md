@@ -6,9 +6,8 @@ categories: journal
 tags: [produtividade]
 lang: pt
 ref: great-food
+img: https://images.unsplash.com/photo-1507185649114-66cb498c55c3?ixlib=rb-0.3.5&s=643353e1f5849f43f3baad8411c47d35&auto=format&fit=crop&w=1050&q=80
 ---
-
-![Criança Comendo Fruta](https://images.unsplash.com/photo-1507185649114-66cb498c55c3?ixlib=rb-0.3.5&s=643353e1f5849f43f3baad8411c47d35&auto=format&fit=crop&w=1050&q=80)
 
 Somos contruídos e mantidos a partir daquilo que nos alimentamos. Busque se alimentar de coisas boas e assim poderá fortalescer aquile aspecto dentro de ti. Tal vale para comida, mas também para pensamentos, informações e até mesmo espiritualidade. Cada coisa que recebemos alimenta algum aspecto dentro da gente. O conjunto de tudo que selecionamos é o que forma aquilo que somos hoje.
 
