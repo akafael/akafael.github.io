@@ -23,7 +23,7 @@ social-email:  # add your Email address
 discus-identifier: akafael # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-116286825-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
