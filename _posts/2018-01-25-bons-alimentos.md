@@ -6,6 +6,7 @@ categories: journal
 tags: [produtividade]
 lang: pt
 ref: great-food
+description: Bons alimentos para a mente e para a vida...
 img: https://images.unsplash.com/photo-1507185649114-66cb498c55c3?ixlib=rb-0.3.5&s=643353e1f5849f43f3baad8411c47d35&auto=format&fit=crop&w=1050&q=80
 ---
 

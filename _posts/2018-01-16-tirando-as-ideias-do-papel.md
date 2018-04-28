@@ -6,6 +6,7 @@ categories: journal
 tags: [produtividade]
 lang: pt
 ref: making-ideas-happen
+description: Não deixe suas idéias ficarem apenas ficarem apenas na imaginação...
 img: https://images.unsplash.com/photo-1506680441981-4a499f09babe?auto=format&fit=crop&w=1021&q=80
 ---
 

@@ -6,6 +6,7 @@ categories: code
 tags: [linux,tutorial]
 lang: en
 ref: linux-desktop-shortcut
+description: Sometimes is just annoying to open terminal each time you need some program running.
 img: https://images.unsplash.com/photo-1506729623306-b5a934d88b53?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3057b8d33793832b6bf459035b8d37b&auto=format&fit=crop&w=1051&q=80
 ---
 
