@@ -2,8 +2,8 @@
 layout: post
 title:  "Creating desktop shortcut on Linux"
 date:   2016-12-03 18:00:00
-categories: code
-tags: [linux,tutorial]
+categories: wiki
+tags: [linux]
 lang: en
 ref: linux-desktop-shortcut
 description: Sometimes is just annoying to open terminal each time you need some program running.
