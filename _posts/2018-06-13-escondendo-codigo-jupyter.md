@@ -20,5 +20,9 @@ Cada célula no Jupyter gera uma div com uma classe definida pelo tipo da célul
 
 Depois podemos colocar isto dentro de uma função e associar esta função a um botão disponível na página para permitir que o usuário veja também o código caso deseje. Para dar o efeito de ligar/desligar é criado um variável que global para sinalizar se tudo está oculto e associar isto a um condicional dentro da função e pronto!
 
+### Referência:
+
+ * [How to make polished Jupyter presentations with optional code visibility, Cris Said]( http://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/)
+
 Crédito:
 [Imagem de Capa](https://unsplash.com/photos/wny6Y4MbyhA) de [@nxvision](https://unsplash.com/@nxvision)
