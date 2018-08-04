@@ -6,7 +6,7 @@ categories: wiki
 tags: [linux,i3wm]
 lang: pt
 ref: i3-keyboard
-description: Guia de configuração para atalho para alternar entre dois layouts diferentes.
+description: Guia de configuração de atalhos para alternar entre dois layouts diferentes.
 img: https://images.unsplash.com/photo-1525651561332-f1382d2bb6c4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9b6d0f1a104efa0aa053982a38fb6cf4&auto=format&fit=crop&w=1050&q=80
 ---
 
@@ -34,7 +34,7 @@ depois pesquisamos no resultado pelo código de um dos layout que será usado us
 setxkbmap -query | grep us
 ```
 
-Agora vem a parte mágica. Caso não encontre o layout desejado o grep retorna que deu tudo certo então podemos associar uma comando para ser executando usando [operador lógico E do Linux](https://www.vivaolinux.com.br/dica/Principais-comandos-do-Linux):
+Agora vem a parte mágica. Caso encontre o layout do outro idioma desejado o grep retorna que deu tudo certo então podemos associar uma comando para ser executando usando [operador lógico E do Linux](https://www.vivaolinux.com.br/dica/Principais-comandos-do-Linux):
 
 ```
 setxkbmap -query | grep us && setxkbmap -layout br

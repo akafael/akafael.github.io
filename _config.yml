@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   using Jekyll and hosted on Github. It compress all sort of things
   from programming snippets to produtivity tips. My journal it is!
   Feel free to dig it for anything useful for you.
-permalink: ':title/'
+permalink: ':categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
