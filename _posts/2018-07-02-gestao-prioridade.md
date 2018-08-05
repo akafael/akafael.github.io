@@ -10,7 +10,7 @@ description: Guia de como otimizar a entrega de qualquer projeto
 img: https://images.unsplash.com/photo-1533284133567-0da9844151ce?ixlib=rb-0.3.5&s=78427efe41771940486b23d986000127&auto=format&fit=crop&w=1351&q=80
 ---
 
-Agilidade na entrega vêm de adiantar a entrega daquilo que importa e deixar de lado o que não é tão importânte. Cerca de 80% do seu trabalho responde apenas por 20% dos resultados como fala o (Princípio de Pareto)[https://pt.wikipedia.org/wiki/Princípio_de_Pareto]. Para tal pode-se utilizar uma crivo bem simples de 4 categorias baseados na resposta de 2 perguntas fundamentais:
+Agilidade na entrega vêm de adiantar a entrega daquilo que importa e deixar de lado o que não é tão importânte. Cerca de 80% do seu trabalho responde apenas por 20% dos resultados como fala o [Princípio de Pareto](https://pt.wikipedia.org/wiki/Princípio_de_Pareto). Para tal pode-se utilizar uma crivo bem simples de 4 categorias baseados na resposta de 2 perguntas fundamentais:
 
 1. Esta parte possui um alto valor percebido pelo meu cliente?
 2. Esta parte possui um custo baixo para ser feita?
@@ -33,5 +33,7 @@ Muito esforço não representa muito valor percebido. Não adianta bater contra 
 
 ## Vá além
 
-* (Resumo Animado Regra 80/20)[https://www.youtube.com/watch?v=3VZDKi5W9fQ]
-* (Análise de Prioridades MoSCoW)[https://en.wikipedia.org/wiki/MoSCoW_method]
+* [Resumo Animado Regra 80/20](https://www.youtube.com/watch?v=3VZDKi5W9fQ)
+* [Análise de Prioridades MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method)
+
+Crédito:
