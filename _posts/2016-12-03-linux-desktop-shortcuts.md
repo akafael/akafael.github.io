@@ -46,4 +46,4 @@ sudo cp myProgram.desktop /usr/share/applications/myProgram.desktop
 
 ### UnityLaunchers
 
-UnityLauchers are also _.desktop_ files and allow to create right-click menus for each application. You can check the details [here](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles) at Ubuntu Documentation.
+UnityLauchers are also _.desktop_ files with the extra habilitity of enabling right-click menus for each application. You can check the details [here](https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles) at Ubuntu Documentation.
