@@ -31,9 +31,9 @@ function onCount()
 }
 </script>
 
-Gere
+Gere uma link para mensagem direta no whatsapp
 
-<textarea onkeydown="onCount()" onkeyup="onCount()" id="textCellphone" style="width: 100%" cols="1" rows="1" placeholder=" Insira seu telefone"></textarea>
+<input type="number" size="14" maxlength="14" onkeydown="onCount()" onkeyup="onCount()" id="textCellphone" style="width: 100%" cols="1" rows="1" placeholder=" Insira seu telefone">
 
 
 <textarea onkeydown="onCount()" onkeyup="onCount()" id="textBox" style="width: 100%" cols="1" rows="6" placeholder=" Insira seu texto"></textarea>
