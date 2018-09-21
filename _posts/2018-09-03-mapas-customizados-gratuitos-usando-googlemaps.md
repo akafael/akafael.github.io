@@ -3,11 +3,11 @@ layout: post
 title:  "Mapas customizados usando GoogleMyMaps"
 date:   2015-01-01 18:00:00
 categories: wiki
-tags: [google-maps]
+tags: [tools]
 lang: pt
 ref: google-my-maps
 description:
-img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5&s=fb2bf45324ffdbe8780fc90bb813a35e&auto=format&fit=crop&w=1051&q=80
+img: https://images.unsplash.com/photo-1534321238895-da3ab632df3e?ixlib=rb-0.3.5&s=3c59de3ec4c8e3dc03dce8c89b0fc6a0&auto=format&fit=crop&w=1350&q=80
 ---
 
 [Google My Maps](https://en.wikipedia.org/wiki/Google_My_Maps) é uma ferramanta da google para gerar mapas customizados a partir de um editor online WYSIWIG. Os arquivos gerados ficam armazenados no Google Drive permitindo edição compartilhada, restrição de acesso ou incorporar o resultado diretamente em uma página web.
