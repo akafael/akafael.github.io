@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Mar calmo nunca fez bom marinheiro"
-date:   2015-01-01 18:00:00
+date:   2018-08-10 18:00:00
 categories: journal
 tags: [produtividade]
 lang: pt
-ref: magic-post
-description: Dicas para lidar com as dificuldades da vida
+ref: seaman-mantra
+description: Como lidar com as dificuldades da vida
 img: https://images.unsplash.com/photo-1514747975201-4715db583da9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=68a7acc60c0f1408fd0fab08d2ca5071&auto=format&fit=crop&w=1350&q=80
 ---
 

@@ -46,7 +46,7 @@ Então basta acrescentar o [operador lógico OU](https://www.vivaolinux.com.br/d
 setxkbmap -query | grep us && setxkbmap -layout br || setxkbmap -layout us
 ```
 
-Por fim associamos este comando ao um [atalho de dentro do i3 config](https://i3wm.org/docs/userguide.html#keybindings)
+Por fim associamos este comando a um [atalho de dentro do i3 config](https://i3wm.org/docs/userguide.html#keybindings)
 
 ```
 bindsym $mod+space "exec setxkbmap -query | grep us && setxkbmap -layout br || setxkbmap -layout us"
