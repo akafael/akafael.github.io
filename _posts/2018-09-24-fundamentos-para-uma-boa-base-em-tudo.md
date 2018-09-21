@@ -3,7 +3,7 @@ layout: post
 title:  "Esteja sempre preparado"
 date:   2018-09-20 18:00:00
 categories: journal
-tags: [jekyll]
+tags: []
 lang: pt
 ref: base-fundamentals
 description: Dicas para alcançar muito além em qualquer sonho
