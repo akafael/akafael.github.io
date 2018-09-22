@@ -40,7 +40,7 @@ Então, a partir do seus objetivo ajuste a proporsão do que for relavante da op
 
 Não existe defeitos e qualidades, cada pessoa possui apenas características que podem ser boas em uma situação e ruins em outras. Saiba aceitar suas próprias dificuldades!
 
-## 7. Encare seu passado com uma boa bibliografia
+## 7. Encare seu passado como uma boa bibliografia
 
 Não podemos mudar o passado, mas podemos sempre mudar percebemos como nos sentimos a respeito e o uso que fazemos disto.
 
