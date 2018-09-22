@@ -10,7 +10,7 @@ description: Dicas para alcançar muito além de qualquer expectativa
 img: https://images.unsplash.com/photo-1529027255029-a3cc871de4de?ixlib=rb-0.3.5&s=d12f2f433a8bdcd8497d5bb83fa810b3&auto=format&fit=crop&w=1350&q=80
 ---
 
-Diz um [poema do templo shaolin]({{ site.baseurl }}{% link _posts/2018-09-24-poema-do-templo-shaolin.md %}):
+Diz um [poema do templo shaolin]({{ site.baseurl }}{% link _posts/2018-09-20-poema-do-templo-shaolin.md %}):
 
 >__"Para trilhar o caminho do real sabedoria,__
 >__primeiro deves encontrar um sólido cavalo.__
