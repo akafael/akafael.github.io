@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mapas customizados usando GoogleMyMaps"
-date:   2015-01-01 18:00:00
+date:   2018-09-03 18:00:00
 categories: wiki
 tags: [tools]
 lang: pt

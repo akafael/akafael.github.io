@@ -25,3 +25,5 @@ __defenda os oito caminhos e evite a morte.__
 __A pratica desenvolverá e conservará sua perícia,__
 __como duas serpentes num combate sem fim.__
 __Só assim você encontrará a satisfação de Buda."__
+
+fonte: [Blog Bushido](https://bushidoplinio.blogspot.com/2009/07/poema-do-templo-de-shaolin.html)
