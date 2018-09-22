@@ -10,10 +10,12 @@ description: Guia de como otimizar a entrega de qualquer projeto
 img: https://images.unsplash.com/photo-1533284133567-0da9844151ce?ixlib=rb-0.3.5&s=78427efe41771940486b23d986000127&auto=format&fit=crop&w=1351&q=80
 ---
 
-Agilidade na entrega vêm de adiantar a entrega daquilo que importa e deixar de lado o que não é tão importânte. Cerca de 80% do seu trabalho responde apenas por 20% dos resultados como fala o [Princípio de Pareto](https://pt.wikipedia.org/wiki/Princípio_de_Pareto). Para tal pode-se utilizar uma crivo bem simples de 4 categorias baseados na resposta de 2 perguntas fundamentais:
+Agilidade na entrega vêm de adiantar a entrega daquilo que importa e deixar de lado o que não é tão importânte. Cerca de [80% do seu trabalho responde apenas por 20% dos resultados](https://akafael.github.io/journal/como-estimar-nota-concursos/). Assim, para começar pelo que realmente importa pode utilizar uma crivo bem simples de 4 categorias baseados na resposta de 2 perguntas fundamentais:
 
 1. Esta parte possui um alto valor percebido pelo meu cliente?
 2. Esta parte possui um custo baixo para ser feita?
+
+Da combinação das repostas surgem as seguintes categorias
 
 ### 1. Partes Obrigatória - Core
 
@@ -27,7 +29,7 @@ Possui um alto valor percebido mas também um custo alto de desenvolvimento. Aqu
 
 Elementos que possuem um custo baixo e um valor percebido baixo são interessantes para dar aquele a mais no produto e construir um diferencial. Depois que as partes obrigatórias e importântes já foram cumpridas, pode-se acrescentar algumas partes extras que custam pouco como forma de agregar valor ao projeto. Se estas forem apreciadas, podem vir a compor as partes obrigatórias de um projeto futuro sem acrescentar tanto custo no desenvolvimento.
 
-### 4. Partes Desnecessárias
+### 4. Partes Desnecessárias no momento
 
 Muito esforço não representa muito valor percebido. Não adianta bater contra parede, tudo aquilo que custa muito alto e têm pouco valor percebido deve ser evitado. Pois tal gera atrasos e ainda, quando concluído, pode trazer requisitos muito pesados para futuros projetos.
 
