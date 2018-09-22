@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como não ser duro consigo mesmo"
+title:  "Não seja tão duro consigo mesmo"
 date:   2018-09-08 18:00:00
 categories: journal
 tags: []
