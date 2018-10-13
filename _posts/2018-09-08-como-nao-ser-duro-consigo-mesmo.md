@@ -14,13 +14,13 @@ Post inspirado em uma imagem
 
 ## 1. Errar faz parte do aprendizado
 
-Errar é perceber a direção de aonde colocar os esforços para poder melhorar. Não existe aprendizado sem erros, por atravez da prática que vêm o ajuste até chega na melhor forma de realizar algo.
+Errar é perceber a direção que colocar os esforços para poder melhorar. Não existe aprendizado sem erros, por atrave da prática que vêm o ajuste até chega na melhor forma de realizar algo.
 
 Errar custa. Mas para facilitar a vida, existem várias formas de reduzir este custo. Porém se frustar logo de cara e desistir na primeira tentativa não é uma delas. Errar é parte do processo, significa que está aprendendo, por mais que não pareça.
 
 ## 2. Não se compare com os outros
 
-Cada pessoa é única e isto é algo belíssimo! Não adianta se comparar, pois o caminho que cada um levou para chegar aonde chegou também é único. Por isto não adianta ser injusto consigo próprio em olhar somente a grama verde do visinho. A verdade é que a maioria das pessoas esconde o esforço necessário tanto pelo fato de que nem sempre é tão glamoroso como também por nem sempre saber tudo que a levou conseguir chegar ali.
+Cada pessoa é única e isto é alg a maior beleza de existir! Não adianta se comparar, pois o caminho que cada um levou para chegar aonde chegou também será sempre único. É muito injusto consigo próprio viver em olhar somente a grama verde do vizinho. A verdade é que a maioria das pessoas esconde o esforço necessário tanto pelo fato de que nem sempre é tão glamoroso como também por nem sempre saber tudo que a levou conseguir chegar ali.
 
 ## 3. Não existe jeito certo de fazer as coisas
 
@@ -32,7 +32,7 @@ Não tenha vergonha de sua arte.
 
 ## 5. Aprenda com as críticas
 
-Entenda cada crítica como um olhar diferente apenas, nem melhor nem pior que o olhar que têm de dentro. Assim poderá sempre contar como algo extra em trazer mais qualidade ao que faz, por contribuir com pontos que talvez não pudesse encontrar por sí próprio.
+Entenda cada crítica como apenas um olhar diferente apenas. Não é nem melhor nem pior que o olhar que têm de dentro. Desta forma poderá sempre contar como algo extra em trazer mais qualidade ao que faz, por contribuir com pontos que talvez não pudesse encontrar por sí próprio.
 
 Então, a partir do seus objetivo ajuste a proporsão do que for relavante da opinião externa junto as crenças internas e sempre terá um quadro mais completo facilitando qualquer decisão.
 
