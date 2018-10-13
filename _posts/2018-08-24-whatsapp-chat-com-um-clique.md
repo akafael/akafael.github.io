@@ -1,12 +1,12 @@
 ---
 layout: tool
 title:  "Mensagem automática com um clique para whatsapp"
-date:   2015-01-01 18:00:00
+date:   2018-08-24 18:00:00
 categories: tools
 tags: [tools]
 lang: pt
 ref: whats-instchat
-description: Gerador de links de chat para whatsapp
+description: Gerador de links de chat para Whatsapp
 img: https://images.unsplash.com/photo-1512428559087-560fa5ceab42?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=665f85219b6ad4ee4b274871593f3394&auto=format&fit=crop&w=1050&q=80
 ---
 
