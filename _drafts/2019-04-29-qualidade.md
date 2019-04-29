@@ -1,1 +1,17 @@
-Something
+---
+published: false
+---
+---
+layout: post
+title:  "Qualidade"
+date:   2015-01-01 18:00:00
+categories: journal
+tags: [jekyll]
+lang: en
+ref: magic-post
+description: A new page has been born !
+img:
+---
+
+Qualidade é soma do atendimento de todos os requisitos.
+
