@@ -10,7 +10,9 @@ description: A new page has been born !
 img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5&s=fb2bf45324ffdbe8780fc90bb813a35e&auto=format&fit=crop&w=1051&q=80
 ---
 
-[Travis]() é uma excelente ferramenta para Integração Contínua. No entanto o script usado para construir e verificar a compilação pode não refletir os comandos usado durante o desenvolvimento. Para resolver este problema podemos utilizar um Makefile para automatizar algumas das partes do processo. A idea básica é definir uma regra para cada cada etapa do travis, assim tanto na verificação feita pelo travis como na hora ao baixar o repositório bastará executar uma regra e todos os comandos e dependências estarão implícitos dentro do Makefile.
+[Travis]() é uma excelente ferramenta para Integração Contínua. No entanto o script utilizado para construir e verificar a compilação pode não refletir os comandos usado durante o desenvolvimento e não permitir o teste efetivo da compilação. Ainda podem ocorrer o uso de outros sistemas para integração contínua.
+
+Para resolver estes problemas podemos utilizar um bom e velho Makefile para automatizar algumas das partes do processo. A idea básica é definir uma regra para cada cada etapa do travis, assim tanto na verificação feita pelo travis como na hora ao baixar o repositório bastará executar uma regra e todos os comandos e dependências estarão implícitos dentro do Makefile.
 
 ## Makefile
 

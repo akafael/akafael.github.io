@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Máquina de Estados finitos em Ladder"
+date:   2015-01-01 18:00:00
+categories: wiki
+tags: [ladder]
+lang: pt
+ref: ladder-fsm
+description: Máquina de Estados feita utilizando só relés.
+img: https://images.unsplash.com/photo-1472235008642-bb3ce23994ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+img-ref: https://unsplash.com/photos/4pPzKfd6BEg
+---
+
+[Ladder](https://pt.wikipedia.org/wiki/Linguagem_ladder) foi originalmente concebida para documentar diagramas elétricos. No entanto como no mundo elétrico tudo ocorre em paralelo pode ser que ocorram situações inesperadas como condições de corrida e afins. Ou ainda resultar em diagramas muito complexo levando a maior dificuldade de manutenção e implementação. Um forma de evitar isto é utilizar técnicas da programação como a representação como [máquina de estados finita](https://pt.wikipedia.org/wiki/Máquina_de_estados_finita) para desenvolvimento dos diagramas Ladder e assim simplificar instalações elétricas e programas feitos em CLP.
+
+# Passo a passo para construir uma máquina de estados 
+
+Basta seguir o seguintes passos:
+
+ 1. Listar todas ações do sistema
+ 2. Associar cada ação a um estado
+ 3. Listar todas as entradas
+ 4. Associar um conjunto de entradas a um evento no sistema
+ 5. Associar cada transição de estados
+
+Para uma implementação em Ladder, o segredo está em usar uma combinação de relés para representar de forma única a necessidade de acionamento. Desta forma o acionamento é feito em dois níveis: um nível apenas para comandar gerenciar os sensores e um nível para acionar diretamente.
+
+Podemos representar a operação lógica "E" como uma ligação em série entre acionamentos e a operação "OU" como uma ligação em paralelo. De forma similar podemos usar a representação binária para gerar uma identificação da combinação de várias entradas de forma mais compacta.
+
+## Exemplo 3 way
+
+Tendo dois interruptores, se apertar qualquer um dos interruptores muda o estado entre ligado e desligado.
+
+Primeiro definimos os possíveis estados do sistema:
+
+ 1. lâmpada ligada
+ 2. lâmpada desligada
+
+Depois definidmos as possíveis entradas do sistema:
+
+ 1. Relé 1 Desligado e Relé 2 Desligado
+ 2. Relé 1 Desligado e Relé 2 Ligado
+ 3. Relé 1 Ligado e Relé 2 Desligado
+ 4. Relé 1 Ligado e Relé 2 Ligado
+
+For fim basta associar cada entrada a uma situação desejada. Podemos por exemplo associar interruptores em posição diferente ao acendimento da lâmpada.
+
+ 1. Relé 1 Desligado e Relé 2 Desligado -> Lâmpada Desligada
+ 2. Relé 1 Desligado e Relé 2 Ligado -> Lâmpada Ligada
+ 3. Relé 1 Ligado e Relé 2 Desligado -> Lâmpada Ligada
+ 4. Relé 1 Ligado e Relé 2 Ligado -> Lâmpada Desligada
+
+A partir disto podemos gerar diretamente o diagrama ladder com a resposta final:
+
+``` 
+     I1       I2            L
+|---|/|------|/|-----------(/)---|
+|---|/|------| |-----------( )---|
+|---| |------| |-----------(/)---|
+|---| |------|/|-----------( )---|
+```
+
+Podemos simplificar o diagrama retirando as situações em que a lâmpada está desligada:
+
+```
+     I1       I2            L
+|---|/|------| |-----------( )---|
+|---| |------|/|-----------( )---|
+```
+
+Caso não seja utilizado uma CLP podemos simplificar ainda mais combinando ambas situações usando fios de neutro e fase:
+
+```
+     I1       I2      L       I1       I2
+|---|/|------| |-----( )-----| |------|/|----|
+```
+
+Para algo mais natural, isto é, com os 2 nterruptores em posições iguais acendendo a lâmpada, basta modificar levemente o diagrama final:
+
+```
+     I1       I2      L       I1       I2
+|---| |------| |-----( )-----|/|------|/|----|
+```
+
+Note que é esta a forma que geralmente é instalada os interruptores 3 way. Máquina de estados é apenas um modelo com uma representação lógica. Podemos implementar de diversas formas. A vantagem de associar isto a um diagrama Ladder é que podemos implementar estruturas bem sofisticadas somente com acionamentos de relés, dispensando o uso de microcontroladores para sistemas com potências maiores.
+
+Pode parecer estranho falar de máquinas de estado sem mencionar tecnologias como FPGA ou micro-processadores mas existiram vários computadores antigos baseados interamente em relés como o [FACOM 128](http://museum.ipsj.or.jp/en/computer/dawn/0012.html) que continua [em operação até hoje](https://canaltech.com.br/infra/tecnico-mantem-computador-criado-em-1959-funcionando-perfeitamente-145777/)
+
+## Referências
+
+ * https://hackaday.com/2019/08/03/maybe-the-oldest-computer-probably-the-oddest/
+ * https://docplayer.com.br/110916655-Controle-de-processos-industriais-programacao-logica-de-clp-s-com-ladder-e-fsm.html
+ * https://www.dmcinfo.com/Portals/0/State%20Transition%20Diagram%20to%20PLC%20Ladder%20Logic%20Translation%20Whitepaper.pdf
+ * http://hamiltonsena.net/programacao-logica-de-clps-com-ladder-e-fsm/
+ * https://www.allaboutcircuits.com/textbook/digital/chpt-6/programmable-logic-controllers-plc/
+ * https://www.splatco.com/fsm_in_ladder.htm
+ * http://www.rosebotics.org/me430-plc-fsm/unit?unit=3&lesson=2
