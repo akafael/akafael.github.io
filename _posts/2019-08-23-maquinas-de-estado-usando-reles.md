@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Máquina de Estados finitos em Ladder"
-date:   2015-01-01 18:00:00
+date:   2019-08-23 18:00:00
 categories: wiki
 tags: [ladder]
 lang: pt
@@ -27,7 +27,7 @@ Para uma implementação em Ladder, o segredo está em usar uma combinação de 
 
 Podemos representar a operação lógica "E" como uma ligação em série entre acionamentos e a operação "OU" como uma ligação em paralelo. De forma similar podemos usar a representação binária para gerar uma identificação da combinação de várias entradas de forma mais compacta.
 
-## Exemplo 3 way
+## Exemplo - 3 Way
 
 Tendo dois interruptores, se apertar qualquer um dos interruptores muda o estado entre ligado e desligado.
 
@@ -63,28 +63,29 @@ A partir disto podemos gerar diretamente o diagrama ladder com a resposta final:
 Podemos simplificar o diagrama retirando as situações em que a lâmpada está desligada:
 
 ```
-     I1       I2            L
 |---|/|------| |-----------( )---|
 |---| |------|/|-----------( )---|
 ```
 
-Caso não seja utilizado uma CLP podemos simplificar ainda mais combinando ambas situações usando fios de neutro e fase:
-
+Podemos simplificar ainda mais combinando os fios comuns:
 ```
-     I1       I2      L       I1       I2
-|---|/|------| |-----( )-----| |------|/|----|
+           I1       I2          L
+|-----+---|/|------| |---+-----( )---|
+      |---| |------|/|---|
 ```
 
 Para algo mais natural, isto é, com os 2 nterruptores em posições iguais acendendo a lâmpada, basta modificar levemente o diagrama final:
 
 ```
-     I1       I2      L       I1       I2
-|---| |------| |-----( )-----|/|------|/|----|
+           I1       I2          L
+|-----+---| |------| |---+-----( )---|
+      |---|/|------|/|---|
 ```
 
-Note que é esta a forma que geralmente é instalada os interruptores 3 way. Máquina de estados é apenas um modelo com uma representação lógica. Podemos implementar de diversas formas. A vantagem de associar isto a um diagrama Ladder é que podemos implementar estruturas bem sofisticadas somente com acionamentos de relés, dispensando o uso de microcontroladores para sistemas com potências maiores.
 
-Pode parecer estranho falar de máquinas de estado sem mencionar tecnologias como FPGA ou micro-processadores mas existiram vários computadores antigos baseados interamente em relés como o [FACOM 128](http://museum.ipsj.or.jp/en/computer/dawn/0012.html) que continua [em operação até hoje](https://canaltech.com.br/infra/tecnico-mantem-computador-criado-em-1959-funcionando-perfeitamente-145777/)
+Note que esta é exatamente a forma de instalar os interruptores de 3 vias, mas poderia ser colocado em uma CLP para emular o mesmo comportamento. Obvio que este é um exemplo super simples mas podemos estender a mesma metodologia para coisas mais sofisticadas incluindo sensores e contatoras. Máquina de estados é apenas um modelo com uma representação lógica. Podemos implementar de diversas formas e usando diversas tecnologias. A vantagem de associar isto a um diagrama Ladder é que podemos implementar estruturas computacionais somente dispositivos elétricos, dispensando o uso de microcontroladores e ainda poder validar possiveis problemas usando ferramentas de verificação formal.
+
+Pode parecer estranho falar de máquinas de estado sem mencionar tecnologias como FPGA ou micro-processadores mas existiram vários computadores antigos baseados interamente em relés como o [FACOM 128](http://museum.ipsj.or.jp/en/computer/dawn/0012.html) que continua [em operação até hoje](https://canaltech.com.br/infra/tecnico-mantem-computador-criado-em-1959-funcionando-perfeitamente-145777/). Obviamente relés não são usados nos computadores atuais por terem chavemento lento, falhas ocasionais por magnetização da chave e consumirem mais corrente que transistores, mas isto não torna impossível a implementação de sistemas computacionais.
 
 ## Referências
 

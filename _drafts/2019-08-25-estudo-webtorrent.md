@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Magic Post"
+title:  "Web Torrent"
 date:   2015-01-01 18:00:00
 categories: journal
 tags: [jekyll]
@@ -11,4 +11,6 @@ img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5
 img-ref:
 ---
 
-A new page has been born !
+Em muitos sistema têm sido usado torrent como solução para o alivio de carga. Os aplicativos estão migrando de serve cliente para computação distribuida como forma de permitir crescimento rápido em escala.
+
+https://github.com/webtorrent/webtorrent
