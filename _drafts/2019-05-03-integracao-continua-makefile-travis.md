@@ -50,3 +50,7 @@ script:
 ## Suporte a multipla plataformas
 
 Obviamente esta solução acaba restringindo o tipo de plataforma. Mas tal pode ser resolvido usando variáveis dentro do makefile ou ainda usando CMake.
+
+## Referência
+
+ * https://le-gall.bzh/post/makefile-based-ci-chain-for-go/
