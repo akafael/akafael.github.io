@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Makefile for LaTeX"
-date:   2015-01-01 18:00:00
+date:   2019-10-27 18:00:00
 categories: wiki
 tags: [latex]
 lang: en

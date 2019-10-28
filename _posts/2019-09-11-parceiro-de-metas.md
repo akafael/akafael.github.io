@@ -6,7 +6,7 @@ categories: journal
 tags: [jekyll]
 lang: en
 ref: magic-post
-description: A new page has been born !
+description: Dicas para conseguir reforço para metas
 img: https://images.unsplash.com/photo-1474059060963-44710306956c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80
 img-ref: https://unsplash.com/photos/9Q7PqDxCZeQ
 ---
