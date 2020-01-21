@@ -16,3 +16,4 @@ Ter mais disciplina é uma questão de controle. Isto é de criar mecanismo tais
 ## Leia Mais
 
  * [Delayed Gratification by Tony Robbins](https://www.tonyrobbins.com/achieve-lasting-weight-loss/delayed-gratification/)
+
