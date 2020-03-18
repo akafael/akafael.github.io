@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Um passo de cada vez"
-date:   2015-01-01 18:00:00
+date:   2020-03-17 18:00:00
 categories: journal
 tags: []
 lang: pt
