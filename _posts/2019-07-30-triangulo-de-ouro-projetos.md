@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turbinando a execução de Projetos"
+title:  "Turbinando o desenvolvimento"
 date:   2020-05-26 18:00:00
 categories: journal
 tags: []
