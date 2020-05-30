@@ -3,12 +3,12 @@ layout: post
 title:  "Triangulo de Ouro de Projetos"
 date:   2020-05-26 18:00:00
 categories: journal
-tags: [jekyll]
-lang: en
-ref: magic-post
+tags: []
+lang: pt
+ref: project-triangle
 description:
 img: https://source.unsplash.com/20F9ht9RY9s
-img-ref:https://unsplash.com/photos/20F9ht9RY9s
+img-ref: https://unsplash.com/photos/20F9ht9RY9s
 ---
 
 Diz um lema de projetos: você pode satisfazer critério de tempo, custo ou qualidade nunca os três juntos. Se escolher priorizar dois, terá que necessáriamente sacrificar algum outro. Este lema é denominado [tripla restrição](https://en.wikipedia.org/wiki/Project_management_triangle) ou triangulo de ouro.
