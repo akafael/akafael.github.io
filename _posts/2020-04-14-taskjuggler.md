@@ -47,4 +47,12 @@ O diagrama mostrado foi gerado usando o seguinte código:
 
 Os relatório final gerado em html deste projeto está públicado neste [link](https://akafael.github.io/taskjuggler-sandbox/). Para mais detalhes sobre o código fonte completo basta ir no repositório [taskjugler-sandbox no github](https://github.com/akafael/taskjuggler-sandbox)
 
+#### Usando acentos no Relatório
+
+Como regra geral o taskjuggler vai seguir a especificação do sistema. Porém caso use uma linguagem diferente basta indicar antes do comando usando a variável de sistema `LANG`. Por exemplo para compilar usando português do Brasil com acentos basta:
+
+```
+LANG=pt_BR.ISO-8859-1 && tf3 myproject.tjp
+```
+
 
