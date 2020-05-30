@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Triangulo de Ouro de Projetos"
+title:  "Turbinando a execução de Projetos"
 date:   2020-05-26 18:00:00
 categories: journal
 tags: []
 lang: pt
 ref: project-triangle
-description:
+description: Como obter o melhor a cada fase do projeto
 img: https://source.unsplash.com/20F9ht9RY9s
 img-ref: https://unsplash.com/photos/20F9ht9RY9s
 ---
