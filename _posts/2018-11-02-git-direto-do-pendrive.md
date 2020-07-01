@@ -7,7 +7,8 @@ tags: [git]
 lang: pt
 ref: flashdrive-git
 description: Magia do Git direto do seu bolso
-img:
+img: https://source.unsplash.com/HqcN0pgmIZI
+img-ref: https://unsplash.com/photos/HqcN0pgmIZI
 ---
 
 [Git]({{ site.baseurl }}{% link _posts/2018-09-29-git.md %}) é um sistema de versionamento descentralizado, o que significa que pode ser usado diretamente de qualquer lugar inclusive um Pen Drive. Segue alguns formatos interessantes:

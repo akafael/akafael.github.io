@@ -2,7 +2,7 @@
 layout: post
 title:  "Taskjuggler"
 date:   2020-04-14 18:00:00
-categories: journal
+categories: wiki
 tags: []
 lang: pt
 ref: taskjuggler
