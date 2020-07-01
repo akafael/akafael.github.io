@@ -6,14 +6,14 @@ categories: wiki
 tags: []
 lang: pt
 ref: taskjuggler
-description: Gestão de Projetos por arquivos de texto
+description: Gestão de Projetos com planejamento automático
 img: https://source.unsplash.com/_pc8aMbI9UQ
 img-ref: https://unsplash.com/photos/_pc8aMbI9UQ
 ---
 
 [Taskjuggler](https://taskjuggler.org) é uma ferramenta para gestão de projetos baseada em arquivos de texto.
 
-É conhecida pela capacidade de gerar diagramas de gant tal este abaixo. Esta forma de representação permite facilitar facilmente o efeito em cascata de adiantar ou atrasar alguma etapa de um projeto.
+É conhecida pela capacidade de gerar diagramas de gant tal este abaixo. Esta forma de representação permite facilitar a análise do o efeito em cascata de adiantar ou atrasar alguma etapa de um projeto.
 
 <iframe src="https://akafael.github.io/taskjuggler-sandbox/gant.html"></iframe>
 
@@ -55,4 +55,6 @@ Como regra geral o taskjuggler vai seguir a especificação do sistema. Porém c
 LANG=pt_BR.ISO-8859-1 && tf3 myproject.tjp
 ```
 
+## Vá além
 
+ * https://taskjuggler.org/documentation.html
