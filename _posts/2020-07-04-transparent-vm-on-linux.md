@@ -21,7 +21,7 @@ Para criar uma definição de sessão para o X basta criar um [Arquivo Desktop](
 
 <script src="https://gist.github.com/akafael/66e397daaf8f02584a23860edd606ae8.js"></script>
 
-O mesmo truque pode se utilizado com Android x86 ou qualquer outro sistema operacional. A vantagem desta abordagem é que ser um meio termo entre prover o máximo de recursos a VM sem ter que trabalhar com Dual Boot. O mesmo truque pode ser utilizado com o google chrome no lugar do Virtual Box para criar um sessão igual ao ChromeBook. A melhor parte é que ao fechar o programa a sessão do X é automáticamente fechada e retorna para a tela de login.
+O mesmo truque pode se utilizado com Android x86 ou qualquer outro sistema operacional. A vantagem desta abordagem é que ser um meio termo entre prover o máximo de recursos a VM sem ter que trabalhar com Dual Boot. O mesmo truque pode ser utilizado com o Google Chrome no lugar do Virtual Box para criar um sessão igual ao um ChromeBook. A melhor parte é que, ao fechar o programa, a sessão do X é automáticamente fechada e retorna para a tela de login. Ou ainda pode ter um modo Arcade utilizando o Retro Arch ou a Steam...
 
 ## Vá Além
 
