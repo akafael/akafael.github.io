@@ -11,7 +11,7 @@ img: https://2.bp.blogspot.com/-OLDO-1muTzQ/ULan1EBV0_I/AAAAAAAAXtY/RKPgVskSYEQ/
 
 Já dizia o principio da impenetrabilidade: _"Dois corpos não podem ocupar o mesmo espaço ao mesmo tempo"_. Da mesma forma na nossa vida para que novas coisas tenha espaço é preciso abrir espaço. Do contrário aquele espaço ocupado impedirá que a mudança ocorra.
 
-Este espaço retido pode ser desde de objeto que não usamos, lembretes de tarefas pendêntes ou mesmo de situações e cenários que nos fazemos confortáveis. Muitos de nós temos armários cheios de roupas e coisas que não usamos ou que ficam na eterna promessa de um dia perfeito para serem usadas. Cada uma destas peças ocupam um espaço que poderia ter uma roupa melhor ou mesmo qualquer outra coisa.
+Este espaço retido pode ser desde de objeto que não usamos, lembretes de tarefas pendentes ou mesmo de situações e cenários que nos fazemos confortáveis. Muitos de nós temos armários cheios de roupas e coisas que não usamos ou que ficam na eterna promessa de um dia perfeito para serem usadas. Cada uma destas peças ocupam um espaço que poderia ter uma roupa melhor ou mesmo qualquer outra coisa.
 
 É tal uma energia retida associada ao pensamento de manter uma coisa que não no fundo não nos são tão úteis assim. Nestas horas é preciso se despojar um pouco para que coisas melhores possam vir, tal ensina Marie Kondo em seu livro "A mágica da Organização". Devemos manter próximo de nós aquilo que nos faz bem e traz boas sensações e a todo re to agradecer e deixar a vida seguir.
 
