@@ -11,7 +11,7 @@ img: https://source.unsplash.com/qJDkJRTedNw
 img-ref: https://unsplash.com/photos/qJDkJRTedNw
 ---
 
-Não permita que ninguém, nem mesmo você mesmo se julgue menor. Muitas vezes nos deixamos levar pelas críticas e comessamos a repetir dentro de nós mesmo: "Eu não sou bom o suficiente", "Eu não dou conta", "Não tenho talento para isto", e tantas outras coisas. Pode parecer ajudar no início, mas cada um destes pensamento vai destruindo a nossa energia. Vai sugando pouco a pouco, e quando nos damos por si, já não há mais motivação mais nem para tentar. Não faça isto! Nem permita a ninguém fazer isto contigo, nem mesmo você mesmo!
+Muitas vezes nos deixamos levar pelas críticas e começamos a repetir dentro de nós mesmo: "Eu não sou bom o suficiente", "Eu não dou conta", "Não tenho talento para isto", e tantas outras coisas. Pode parecer ajudar no início, mas cada um destes pensamento vai destruindo a nossa energia. Vai sugando pouco a pouco, e quando nos damos por si, já não há mais motivação mais nem para tentar. Não faça isto! Nem permita a ninguém fazer isto contigo, nem mesmo você mesmo!
 
 Como efeito, pessoas otimistas tendem a ir melhor na vida que as péssimistas. Não é por que otimismo ou pessimismo é melhor ou pior. Pessoas otimistas tendem a tentar mais que pessoas pessimistas e com isto acabam eventualmente tendo melhores resultados a longo prazo. Mesmo tendo iguais chances a cada tentativa, o sucesso vêm do estado internos que os movem a ir mais. 
 
@@ -23,4 +23,4 @@ Invista em buscar estar melhor que tudo vai automaticamente mudar. Um mente que 
 
  * [Daniel Godri - Bola Cheia x Bola Murcha](https://www.youtube.com/watch?v=qM0zgCF1Jtw)
  * [Enxergar os limites é diferente de aceitá-los: Pedro Pimenta at TEDxUFPR](https://www.youtube.com/watch?v=pD_L6O2gg9w)
- * [How to Make the Decision to do the Impossible | Tony Robbins Podcast](https://www.youtube.com/watch?v=aZ0VYe9Smik)
+ * [How to Make the Decision to do the Impossible - Tony Robbins Podcast](https://www.youtube.com/watch?v=aZ0VYe9Smik)
