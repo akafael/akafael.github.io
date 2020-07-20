@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seja seu heroi!"
+title:  "Herói de si mesmo"
 date:   2020-07-14 18:00:00
 categories: journal
 tags: []
@@ -17,7 +17,7 @@ Como efeito, pessoas otimistas tendem a ir melhor na vida que as péssimistas. N
 
 [Energia](https://pt.wikipedia.org/wiki/Energia) é definido como a capacidade de realizar trabalho. Isto é de realizar mudança ao nosso redor. Para construir vitalidade é preciso o investimento perene no nosso estado interno. Nem sempre podemos mudar a nossa realidade rápidamente, mas nosso estado mental [pode ser mudado super rápido](https://www.youtube.com/watch?v=pD_L6O2gg9w). Em poucas horas podemos ir de "Não sei o que faço da minha vida" para a heróis de nossas vidas.
 
-Invista em buscar estar melhor que tudo vai automaticamente mudar. Um mente que procura problemas vai estar sempre atenta a todos os detalhes que podem tornar aquilo impraticável, enquanto uma mente que procura soluções vai descobrir em cada canto um oportunidade. Por isto [seja sempre a o melhor que puder ser para si]({{ site.baseurl }}{% link 2018-09-08-como-nao-ser-duro-consigo-mesmo.md %}), pois você será sempre a pessoa que estará contigo em todas as situações. Então porque não se tornar seu melhor apoio ao invés de seu pior inimigo? Para ser sempre aquele que te ajuda a [conquistar novas habilidades]({{ site.baseurl }}{% link 2018-06-21-voce-pode-aprender-qualquer-coisa.mdi %}), ao invés de apontar todas as suas fraquezas. E assim será imbatível! A vida ou qualquer dificuldade terá mudado, mas estará sempre na melhor versão de si mesmo por se permitir ser melhor a cada dia!
+Invista em buscar estar melhor que tudo vai automaticamente mudar. Um mente que procura problemas vai estar sempre atenta a todos os detalhes que podem tornar aquilo impraticável, enquanto uma mente que procura soluções vai descobrir em cada canto um oportunidade. Por isto [seja sempre a o melhor que puder ser para si]({{ site.baseurl }}{% link _posts/2018-09-08-como-nao-ser-duro-consigo-mesmo.md %}), pois você será sempre a pessoa que estará contigo em todas as situações. Então porque não se tornar seu melhor apoio ao invés de seu pior inimigo? Para ser sempre aquele que te ajuda a [conquistar novas habilidades]({{ site.baseurl }}{% link _posts/2018-06-21-voce-pode-aprender-qualquer-coisa.md %}), ao invés de apontar todas as suas fraquezas. E assim será imbatível! A vida ou qualquer dificuldade terá mudado, mas estará sempre na melhor versão de si mesmo por se permitir ser melhor a cada dia!
 
 ## Veja mais
 
