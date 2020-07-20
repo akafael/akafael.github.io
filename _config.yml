@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Rafael Lima # add your name
-author-img: keyboard.jpg # add your photo
+#author-img: keyboard.jpg # add your photo
 website-img: keyboard.jpg # add website thumbnail picture
 about-author: I am a mechatronics engineering student. Always hungry to keep learning. # add description
 social-twitter: akafael # add your Twitter handle
