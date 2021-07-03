@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Método dos Envelopes para Gestão de Tempo"
-date:   2015-01-01 18:00:00
+title:  "Dicas de como gerenciar melhor o tempo"
+date:   2018-10-11 18:00:00
 categories: journal
 tags: [produtivity]
 lang: pt
 ref: energy-packing
-description: Método dos envelopes para gestão de tempo
+description: Como direcionar melhor os esforços
 img:
 ---
+
+
 
 # 1. Dê um função para cada momento do seu dia
 
