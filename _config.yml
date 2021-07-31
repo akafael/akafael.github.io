@@ -1,3 +1,5 @@
+# Blog Key Variables
+
 title: Akafael
 description: > # this means to ignore newlines until "baseurl:"
   This is collection of bit from myself made with love and code
@@ -13,7 +15,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Rafael Lima # add your name
 #author-img: keyboard.jpg # add your photo
 website-img: keyboard.jpg # add website thumbnail picture
-about-author: I am a mechatronics engineering student. Always hungry to keep learning. # add description
+about-author: # add description
 social-twitter: akafael # add your Twitter handle
 social-facebook: akafael  # add your Facebook handle
 social-github: akafael # add your Github handle
