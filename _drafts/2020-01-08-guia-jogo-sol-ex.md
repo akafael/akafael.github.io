@@ -45,13 +45,13 @@ The max mana stilling amoung is also 10 but most magics cost less then 100 point
 
 #### Gold Runes
 
-Since is quite easy to get itens and sell I did see any advantage in thoses.
+Since is quite easy to get itens and sell I have not seen any advantage of using thoses.
 
 ## Combat Tips
 
 Dodge is the major hability to have. Every monster in this game give tips when is about to attack and most of then give huge damage compare to your level. If you want survive long enough just Do Not get hit.
 
-Any class can use any weapon. But the best switched weapon for that class will give the most damage. Only mage weapons are long range. All other are mellee. That makes mage is overpowered on this game. At the end of the day every class will play mage no matter wich class have you chose.
+Any class can use any weapon. But picking the a class weapon will always give the most damage. Only mage weapons are long range. All other are mellee. That makes mage overpowered on this game. At the end of the day every class will play mage no matter wich class have you chose.
 
 You can stop in the middle of the game and change your equipment any time. That enable to switch to the best weapon combination for each enemy. I usualy keep a mage weapon for tough mellee enemies and some rune powered class weapon for everything else.
 

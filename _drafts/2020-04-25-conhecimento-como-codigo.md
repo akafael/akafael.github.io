@@ -11,7 +11,11 @@ img:
 img-ref:
 ---
 
-[Código](https://pt.wikipedia.org/wiki/Código_(comunicação)) é basicamente a representação simbólica de um informação. Códificar é basicamente traduzir conhecimento em uma forma que possa ser entendido por outra pessoa ou mesmo por uma máquina.
+[Código](https://pt.wikipedia.org/wiki/Código_(comunicação)) é basicamente a representação simbólica de um informação. Codificar é basicamente traduzir conhecimento em uma forma que possa ser entendido por outra pessoa ou mesmo por uma máquina. Neste sentido, escrever um texto qualquer é também uma forma de codificação do conhecimento associado. Em particular, quando traduzimos algum conhecimento em uma linguagem que pode ser processada por máquinas e realizar alguma atividade, dizemos que estamos programando ou desenvolvendo programas.
+
+## Verificabilidade
+
+Tudo que é racional é previsível. Um dos pressupostos de toda lógica é que dados os mesmos fundamentos e a mesma forma de interpretação
 
 ## Documentação
 
@@ -23,7 +27,7 @@ Por sua vez o papel do cientista é garantir que algum conhecimento possa ser re
 
 ## Instrumentalização
 
-Máquinas também uma forma de códificação e também de instrumentalização do conhecimento. Isto é, são construções que permitem que você possa usar algum conhecimento sem ter que necessáriamente passar por todo o processo ciêntifico de descobrir tudo de novo. Em outras palavras, é como se pegassemos emprestado a sabedoria de todas as pessoas envolvidas antes.
+Construir máquinas também é uma forma de codificação e instrumentalização do conhecimento. Isto é, são construções que permitem que você possa usar algum conhecimento sem ter que necessariamente passar por todo o processo cientifico de descobrir tudo de novo. Em outras palavras, é como se pegassemos emprestado a sabedoria de todas as pessoas envolvidas antes.
 
 ## Valor Incremental
 
