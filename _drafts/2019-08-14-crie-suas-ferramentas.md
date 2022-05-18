@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magic Post
+title: Crie suas próprias ferramentas
 date: 2015-01-01T18:00:00-02:00
 categories: journal
 tags: [jekyll]
