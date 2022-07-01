@@ -6,7 +6,7 @@ categories: journal
 tags: [jekyll]
 lang: pt
 ref: magic-post
-description: Sabedoria entre camaradas
+description: Toda forma de registro permite carregar conhecimento
 img: https://images.unsplash.com/photo-1552820755-733e038f86d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 img-ref:  https://unsplash.com/photos/L3QG_OBluT0
 ---
