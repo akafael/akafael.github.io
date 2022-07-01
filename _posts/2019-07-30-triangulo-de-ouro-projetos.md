@@ -6,7 +6,7 @@ categories: journal
 tags: []
 lang: pt
 ref: project-triangle
-description: Como obter o melhor a cada fase do projeto
+description: 
 img: https://source.unsplash.com/20F9ht9RY9s
 img-ref: https://unsplash.com/photos/20F9ht9RY9s
 ---
