@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Magic Post"
-date:   2015-01-01 18:00:00
+title: Crie suas próprias ferramentas
+date: 2015-01-01T18:00:00-02:00
 categories: journal
 tags: [jekyll]
 lang: pt
 ref: magic-post
 description: A new page has been born !
-img:
+img: null
 ---
 
 Crie suas próprias ferramentas. Quer reduzir custos ou ter algo que atenda necessidades super específicas? Crie suas próprias ferramentas. Não o digo para fazer como primeira escolha como forma de resolver imediatamente um problema. Mas como um recurso de garantir que o conhecimento do aprendizado de como atender melhor necessidades particulares possa ser sempre agregado de forma intrísceca a ferramenta.
