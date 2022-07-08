@@ -53,7 +53,7 @@ Uma vez que uma linha de produção está bem estruturada, a produtividade de de
 
 Os upgrades ajudando a diminuir os custos, aumentar a velocidade de processamento de cada bloco e aumentar a quantidade de blocos de STARTER. Aumentam exponêncialmente a partir do tipo, o que implica que a cada melhoria é necessário pagar muito mais.
 
-Eles ajudam muito e são fundamentais para tornar possível a fabricação de alguns produtos. Upgrades custam caro e nem sempre ajudam. Pois podem acabar trazendo um baita transtorno pela formação de estoques com o aumento da produção, já que uma vez que são feitos só dá para retirar reiniciando todo o jogo.
+São fundamentais para tornar possível a fabricação de alguns produtos, porém upgrades custam caro. Upgrades relacionados ao aumento da produção no inicio nem sempre ajudam, pois podem acabar trazendo um baita transtorno pela formação de estoques com o aumento da produção, já que uma vez que são feitos só dá para retirar reiniciando todo o jogo.
 
 Exemplo disto é aumentar a velocidade o STARTER logo de início, pois todo o resto da fábrica não terá como processar tanta coisa e começará a ser formado estoques em cada etapa, até chegar um ponto que boa parte do que produziu nem sequer chegou a ser vendido.
 
