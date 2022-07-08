@@ -13,7 +13,7 @@ img-ref: https://unsplash.com/photos/20F9ht9RY9s
 
 Diz um lema de projetos: você pode satisfazer critério de tempo, custo ou qualidade nunca os três juntos. Se escolher priorizar dois, terá que necessáriamente sacrificar algum outro. Este lema é denominado [tripla restrição](https://en.wikipedia.org/wiki/Project_management_triangle) ou triangulo de ouro.
 
-Porém você pode pensar a tripla restrição como um ciclo de projeto. Similar ao funcionamento das câmeras de um [motor de combustão internal wankel](https://pt.wikipedia.org/wiki/Motor_Wankel), alternando fases e papeis de forma contínua. Ao longo do projeto, cada restrição perde prioridade durante um tempo para ajudar impussionar as outras duas. Uma forma que gosto de ordenar o ciclo é: produto mínimo viável, produto minímo para entrega e otimização.
+Porém você pode pensar a tripla restrição como um ciclo de projeto. Similar ao funcionamento das câmeras de um [motor de combustão internal wankel](https://pt.wikipedia.org/wiki/Motor_Wankel), alternando fases e papeis de forma contínua. Ao longo do projeto, cada restrição perde prioridade durante um tempo para ajudar impussionar as outras duas. Uma forma que gosto de ordenar o ciclo é: produto mínimo viável, produto minímo para entrega e otimização. Pensando respectivamente garantir na seguinte ordem: eficácia, eficiência e efetividade:
 
 ## 1. Resolva o problema - Menor Tempo e Menor Custo
 
