@@ -6,8 +6,9 @@ categories: wiki
 tags: [travis,makefile]
 lang: pt
 ref: ci-makefile-travis
-description: A new page has been born !
-img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5&s=fb2bf45324ffdbe8780fc90bb813a35e&auto=format&fit=crop&w=1051&q=80
+description: 
+img: https://images.unsplash.com/photo-1515756033153-5014a610432e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+img-src: https://unsplash.com/photos/eHSQQOe_tYM
 ---
 
 [Travis-CI](https://travis-ci.org) é uma excelente ferramenta de integração contínua para garantir a qualidade de projetos open source. É muito comum achar projetos de código aberto com dependências escondidas que compilavam somente na máquina do primeiro desenvolvedor. O que acaba demandando um longo tempo para preparação toda vez que é necessário preparar o ambiente para um desenvolvedor novo.
