@@ -6,7 +6,8 @@ categories: wiki
 tags: [game,olympo]
 lang: pt
 ref: olympo-game-review
-img:
+img: https://images.unsplash.com/photo-1567789884554-0b844b597180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+img-ref: https://unsplash.com/photos/jHZ70nRk7Ns
 ---
 
 [Assembly Line Olympus](https://play.google.com/store/apps/details?id=com.olympus.assemblyline&hl=en) é um jogo feito por Olympus que emula uma fábrica completamente automática. Traz consigo a sensação de poder fabricar diversos itens de consumo que vão desde fios e torradeiras até um robô completo.

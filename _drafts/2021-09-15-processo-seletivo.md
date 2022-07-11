@@ -15,7 +15,6 @@ img-ref:
 Etapas:
 
 1. Análise Currículo + Carta de Apresentação
-2. Prova técnica
 3. Entrevista RH
 4. Entrevista Técnica
 
