@@ -6,7 +6,8 @@ categories: wiki
 tags: [game,olympo]
 lang: pt
 ref: olympo-game-review
-img:
+img: https://images.unsplash.com/photo-1567789884554-0b844b597180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+img-ref: https://unsplash.com/photos/jHZ70nRk7Ns
 ---
 
 [Assembly Line Olympus](https://play.google.com/store/apps/details?id=com.olympus.assemblyline&hl=en) é um jogo feito por Olympus que emula uma fábrica completamente automática. Traz consigo a sensação de poder fabricar diversos itens de consumo que vão desde fios e torradeiras até um robô completo.
@@ -53,7 +54,7 @@ Uma vez que uma linha de produção está bem estruturada, a produtividade de de
 
 Os upgrades ajudando a diminuir os custos, aumentar a velocidade de processamento de cada bloco e aumentar a quantidade de blocos de STARTER. Aumentam exponêncialmente a partir do tipo, o que implica que a cada melhoria é necessário pagar muito mais.
 
-Eles ajudam muito e são fundamentais para tornar possível a fabricação de alguns produtos. Upgrades custam caro e nem sempre ajudam. Pois podem acabar trazendo um baita transtorno pela formação de estoques com o aumento da produção, já que uma vez que são feitos só dá para retirar reiniciando todo o jogo.
+São fundamentais para tornar possível a fabricação de alguns produtos, porém upgrades custam caro. Upgrades relacionados ao aumento da produção no inicio nem sempre ajudam, pois podem acabar trazendo um baita transtorno pela formação de estoques com o aumento da produção, já que uma vez que são feitos só dá para retirar reiniciando todo o jogo.
 
 Exemplo disto é aumentar a velocidade o STARTER logo de início, pois todo o resto da fábrica não terá como processar tanta coisa e começará a ser formado estoques em cada etapa, até chegar um ponto que boa parte do que produziu nem sequer chegou a ser vendido.
 

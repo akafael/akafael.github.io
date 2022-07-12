@@ -10,8 +10,6 @@ description: Como direcionar melhor os esforços
 img:
 ---
 
-
-
 # 1. Dê um função para cada momento do seu dia
 
 Mesmo os momentos de cansaço podem ser úteis. Separe as tarefas conforme sua disposição e recursos naquela hora do dia. Decisões podem ficar para de manhã ou ao final do dia, tarefas braçais podem ser um ótimo descanso para a mente e por ai vai.

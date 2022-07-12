@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Caixa de Entrada de Tarefas"
-date:   2015-01-01 18:00:00
+title:  "A arte da priorização"
+date:   2019-09-30 18:00:00
 categories: journal
 tags: []
 lang: pt
 ref: inbox
 description: Dicas de como gerenciar o tempo
-img:
-img-ref:
+img: https://images.unsplash.com/photo-1456574808786-d2ba7a6aa654?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1944&q=80
+img-ref: https://unsplash.com/photos/ft0-Xu4nTvA
 ---
 
 Não têm tempo para nada?
@@ -33,13 +33,13 @@ A segunda tática que surge é tentar atender aquilo que é mais urgente em term
 
 ## "Caixa de Areia" - Coisas Mais Rápidas Primeiro
 
-El matador de tarefas. Embora seja uma ótima forma de garantir que muitas coisas sejam feitas, pode ocorrer que muitas coisas importântes e demoradas acabem sendo deixadas de lado. 
+El grande matador de tarefas. Embora seja uma ótima forma de garantir que muitas coisas sejam feitas, pode ocorrer que muitas coisas importântes e demoradas acabem sendo deixadas de lado. Tudo é rápido é feito de forma imediata. Tudo que é demorado é deixado de lado.
 
-Por outro lado pode ocorrer coisas muito menores e sem importância acabem tomando o lugar daquilo que precisa ser feito e acabemos cedendo para alguma forma de procastinação: seja com algum joguinho de celular, se prendendo em algum grupo de rede social... E com isto acabamos como serial killer de tempo, sempre sem tempo para aquilo que mais importa.
+Com isto coisas muito menores e sem importância acabem tomando o lugar daquilo que precisa ser feito e acabemos cedendo para alguma forma de procastinação: seja com algum joguinho de celular, se prendendo em algum grupo de rede social... E com isto acabamos como serial killer de tempo: sempre sem tempo para aquilo que mais importa. Tudo que "demanda muito tempo" se torna trabalhoso demais para resolver e fica pendente.
 
-## "Tempo de Folga" - 
+## "Tempo de Folga" - Balanço entre Rápido e Longo
 
-Uma forma de equilibrar a precastinação e procrastinação. Isto é fazer as tarefas no melhor momento oportuno, nem muito antes nem muito depois, é gerenciar a duração junto ao tempo disponível. Para tal basta estimar duas coisas: qual [e a hora limite para começar e quanto tempo de folga tenho para imprevistos. São duas contas bem simples
+Uma forma de equilibrar a precastinação e procrastinação. Isto é fazer as tarefas no melhor momento oportuno, nem muito antes nem muito depois, é gerenciar a duração junto ao tempo disponível. Para tal basta estimar duas coisas: qual é a hora limite para começar e quanto tempo de folga tenho para imprevistos. São duas contas bem simples
 
 ```
 MomentoLimiteDeInicio = MomentoDesejadoDeTermino - DuracaoEstimada
@@ -48,28 +48,8 @@ Folga = TempoAtual - MomentoLimiteDeInicio
 
 Com isto basta escolher as tarefas de menor folga primeiro e com isto sobrará tempo tanto para as tarefas longas quanto para as pequenas. Exemplo de uso: imagine quer descobrir uma forma de não chegar atrasado no trabalho. Primeiro passo é estimar o tempo gasto com deslocamento e se arrumando. Que pode ser 60min no deslocamento e 30min para seja arrumar. Depois é ver a hora de chegada no trabalho: 8h. Logo para chegar no trabalho a hora limite para começar a se arrumar é 8h - (1h + 0.5h) = 7h30 . Qualquer tempo antes disto é o tempo de folga que pode colocar para imprevistos. Assim ao invés de sair correndo desesperado, basta começar mais cedo a se arrumar. Qualquer minuto que ganhar antes de 7h30 é um presente que se dá.
 
-# "Planejamento Ideal"
+## "Planejamento Ideal"
 
-Não existe forma ideal que funcione sempre para todos os momentos. Toda forma de priorização de tarefa gera resíduos de tarefas que ficaram de lado. Cada situação da vida pede uma forma diferente de como agir. Assim o ideal é adotar um conjunto de táticas conforme a necessidade. Para isto vale a pena sempre buscar estimar a duração e organizar as datas de entrega.
+Não existe forma ideal que funcione sempre para todos os momentos! Toda forma de priorização de tarefa gera resíduos de tarefas que ficaram de lado. Cada situação da vida pede uma forma diferente de como agir. Assim o ideal é adotar um conjunto de táticas conforme a necessidade. E dinâmicamente trocar de táticas conforme a necessidade do momento. Para isto vale a pena sempre buscar dividir as tarefas e aprender a estimar a duração. Tudo isto facilita na organização as datas de entrega.
 
-## Fragmentação
-
-Ao invés de pensar uma tarefa completa de uma vez podemos quebrar em pequenas etapas que podem ser feitas aos poucos. Desta forma fica bem mais simples de alocar tempo para projetos grandes sem o medo que estes atrapalhem todo o resto de nossas vidas.
-
-## Ciclos de Revisão
-
-Não existe agenda ou sistema de organização perfeito. Existe aquele que melhor te atende hoje. Para isto é bom estar sempre tirando algum momento a cada semana para se organizar de novo. Assim pode reorganizar as prioridades e corrigir qualquer problema que surja.
-
-# Táticas de Otimização de Tempo
-
-## Agrupamento por Contexto
-
-## Tercerização
-
-## Automação
-
-# Vá além
-
- * Bullet Journal
- * GTD
- * Kanban
+Ao invés de pensar uma tarefa completa de uma vez podemos quebrar em pequenas etapas que podem ser feitas aos poucos. Desta forma fica bem mais simples de alocar tempo para projetos grandes sem o medo que estes atrapalhem todo o resto de nossas vidas. Não existe agenda ou sistema de organização perfeito. Existe aquele que melhor te atende hoje. Para isto é bom estar sempre tirando algum momento a cada semana para se organizar de novo. Assim pode reorganizar as prioridades e corrigir qualquer problema que surja.

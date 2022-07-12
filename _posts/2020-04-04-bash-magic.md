@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Magic Post"
-date:   2015-01-01 18:00:00
+title:  "Bash Magic"
+date:   2020-04-04 18:00:00
 categories: wiki
 tags: [bash,linux]
-lang: en
+lang: pt
 ref: bash-magic
-description: Coleção de truques no linux usando bash
-img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5&s=fb2bf45324ffdbe8780fc90bb813a35e&auto=format&fit=crop&w=1051&q=80
-img-ref:
+description:
+img: https://images.unsplash.com/photo-1521776943084-9a3512bd6311?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+img-ref: https://unsplash.com/photos/-RMBf_xSf2U
 ---
 
 Coleção de truques no linux usando bash.
