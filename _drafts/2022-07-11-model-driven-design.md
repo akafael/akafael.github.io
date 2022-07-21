@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Magic Post"
-date:   2015-01-01 18:00:00
+title: Model Driven Design
+date: 2015-01-01T18:00:00-02:00
 categories: journal
 tags: [jekyll]
 lang: pt
 ref: magic-post
 description: A new page has been born !
-img: 
-img-ref:
+img: null
+img-ref: null
 ---
 
 Model Driven Design
