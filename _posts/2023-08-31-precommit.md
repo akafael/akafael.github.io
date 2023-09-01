@@ -6,11 +6,11 @@ categories: wiki
 tags: [precommit,ci]
 lang: en
 ref: precommit
-description: A new page has been born !
-img: https://images.unsplash.com/photo-1497271679421-ce9c3d6a31da?ixlib=rb-0.3.5&s=fb2bf45324ffdbe8780fc90bb813a35e&auto=format&fit=crop&w=1051&q=80
+description: Better code using pre-commit hooks
+img: https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80
 ---
 
-#
+## Better Git Hooks
 
 [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) are scripts that are trigered when some action from Git is perfomed. They can run before or after common actions such creating a commit, push or pull.
 
@@ -29,7 +29,7 @@ It can be installed using pip using the following command:
 pip install pre-commit
 ```
 
-### Configuring
+### Basic Configuration
 
 Once pre-commit is installed, you can create a file `.pre-commit-config.yaml` in the repository root with the following content:
 
@@ -54,7 +54,7 @@ pre-commit install -c .pre-commit-config.yaml
 
 This will download the repository and install the hooks inside the `.git/hooks` folder. Then, the pre-commit hooks registered will run everytime that you run `git commit` before the commit be generated.
 
-#### Using Parameters
+#### Using hooks with Parameters
 
 pre-commit enable also to use some tools
 
@@ -80,6 +80,8 @@ repos:
           - '--in-place'                                     # yapf arg: edit file and fix error found
         files: \.(py)$                                       # Apply hook to all *.py files and trigger hook whenever a python file is changed
 ```
+
+### Using local commands as custom hooks
 
 Some tools might be available only localy. In this case, you can use the `repo: local` combined with `language: system` to translate the command required by the tool to hook in the yaml config file.
 
@@ -110,4 +112,6 @@ repos:
         pass_filenames: false               # This will prevent the files to be passed to command since some tools might not need.
 ```
 
-###
+## Git++
+
+There so much more! Go ahead check the documentation page at https://pre-commit.com/ to enable even more powerful hooks.
