@@ -7,7 +7,7 @@
   "author": "Artem Sheludko",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^3.0.0",
     "child_process": "^1.0.2",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^6.0.0",
